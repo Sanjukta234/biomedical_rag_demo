@@ -61,16 +61,16 @@ python3 -m venv venv
 source venv/bin/activate
 
 -------
-### Install Dependencies
+### 2. Install Dependencies
 pip install -r requirements.txt
 
 ------
-Download a GGUF model
+### 3. Download a GGUF model
 This model uses Phi-2
 Place it inside
 models/phi-2.Q4_K_M.gguf
 _________________
-### Usage
+### 4. Usage
 Step 1: Put biomedical text in data/input.txt
 
 Example:
