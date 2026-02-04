@@ -61,7 +61,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 -------
-Install Dependencies
+### Install Dependencies
 pip install -r requirements.txt
 
 ------
@@ -70,7 +70,7 @@ This model uses Phi-2
 Place it inside
 models/phi-2.Q4_K_M.gguf
 _________________
-Usage
+### Usage
 Step 1: Put biomedical text in data/input.txt
 
 Example:
@@ -91,7 +91,7 @@ data/relations.json
 Step 3: Ask a question
 python cli.py query "Which drugs are associated with diabetes?"
 
-How it Works
+## How it Works
 1. Ingestion
 
 SciSpacy extracts biomedical entities like DISEASE, CHEMICAL
