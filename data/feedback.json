@@ -1,0 +1,16 @@
+{
+  "remove_entities": [],
+  "correct_entities": [
+    {
+      "original": "Metformin",
+      "corrected": "Metformin",
+      "label": "DRUG"
+    },
+    {
+      "original": "Insulin",
+      "corrected": "Insulin",
+      "label": "DRUG"
+    }
+  ],
+  "add_relations": []
+}

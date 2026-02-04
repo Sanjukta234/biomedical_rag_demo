@@ -1,0 +1,6 @@
+spacy
+scispacy
+sentence-transformers
+faiss-cpu
+transformers
+torch
