@@ -44,6 +44,7 @@ biomedical_rag_demo/
 
 │ └── feedback.json (optional)
 │
+
 └── models/
 
 ├── phi-2.Q4_K_M.gguf
