@@ -22,19 +22,29 @@ A lightweight **Biomedical Retrieval-Augmented Generation (RAG)** pipeline that:
 biomedical_rag_demo/
 │
 ├── cli.py
+
 ├── ingest.py
+
 ├── rag.py
+
 ├── llm.py
+
 ├── feedback.py
+
 ├── relations.py
 │
 ├── data/
+
 │ ├── input.txt
+
 │ ├── entities.json
+
 │ ├── relations.json
+
 │ └── feedback.json (optional)
 │
 └── models/
+
 ├── phi-2.Q4_K_M.gguf
 
 -------
