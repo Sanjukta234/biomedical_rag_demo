@@ -56,7 +56,7 @@ biomedical_rag_demo/
 ##  Setup
 
 ### 1. Create venv
-```bash
+```bash```
 python3 -m venv venv
 source venv/bin/activate
 
