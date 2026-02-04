@@ -33,6 +33,7 @@ biomedical_rag_demo/
 
 ├── relations.py
 │
+
 ├── data/
 
 │ ├── input.txt
