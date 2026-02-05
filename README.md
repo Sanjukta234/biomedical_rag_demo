@@ -61,8 +61,8 @@ pip install -r requirements.txt
 ------
 ### 2. Download a GGUF model
 This model uses Phi-2
-Place it inside
-models/phi-2.Q4_K_M.gguf
+
+phi-2.Q4_K_M.gguf
 _________________
 ### 3. Usage
 
