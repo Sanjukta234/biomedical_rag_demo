@@ -55,22 +55,17 @@ biomedical_rag_demo/
 
 ##  Setup
 
-### 1. Create venv
-```bash```
-python3 -m venv venv
-source venv/bin/activate
-
--------
-### 2. Install Dependencies
+### 1. Install Dependencies
 pip install -r requirements.txt
 
 ------
-### 3. Download a GGUF model
+### 2. Download a GGUF model
 This model uses Phi-2
 Place it inside
 models/phi-2.Q4_K_M.gguf
 _________________
-### 4. Usage
+### 3. Usage
+
 Step 1: Put biomedical text in data/input.txt
 
 Example:
