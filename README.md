@@ -114,12 +114,12 @@ We can manually create data/feedback.json:
 {
   "remove_entities": [],
   "correct_entities": [
-    {
+{
       "original": "Herceptin",
       "corrected": "Trastuzumab",
       "label": "DRUG"
     }
-  ],
+],
   "add_relations": []
 }
 
